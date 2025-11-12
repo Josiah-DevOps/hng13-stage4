@@ -1,0 +1,3 @@
+Deployed HTTP server in subnet 'public' of VPC 'vpc' on port 8080 (PID: 19217)
+Deployed HTTP server in subnet 'private' of VPC 'vpc' on port 8080 (PID: 19221)
+Deployed HTTP server in subnet 'public1' of VPC 'vpc1' on port 9090 (PID: 19305)

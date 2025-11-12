@@ -1,0 +1,4 @@
+Created VPC 'vpc' with CIDR 10.10.0.0/16 and bridge vpc-lb
+Created VPC 'vpc' with CIDR 10.10.0.0/16 and bridge vpc-lb
+Created VPC 'vpc' with CIDR 10.10.0.0/16 and bridge vpc-lb
+Created VPC 'vpc1' with CIDR 10.20.0.0/16 and bridge vpc1-lb

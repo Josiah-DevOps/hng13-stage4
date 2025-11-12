@@ -1,0 +1,3 @@
+Added subnet 'public' with CIDR 10.10.1.0/24 to VPC 'vpc'
+Added subnet 'private' with CIDR 10.10.2.0/24 to VPC 'vpc'
+Added subnet 'public1' with CIDR 10.20.1.0/24 to VPC 'vpc1'
