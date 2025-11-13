@@ -496,6 +496,10 @@ def main():
     delete_cmd = sub.add_parser("delete", help="Delete a VPC")
     delete_cmd.add_argument("--name", required=True)
     delete_cmd.set_defaults(func=delete_vpc)
+
+    inspect_cmd = sub.add_parser("inspect", help="Inspect a VPC's details")
+    inspect_cmd.add_argument("--name", required=True)
+    inspect_cmd.set_defaults(func=inspect_vpc)
     list_cmd = sub.add_parser("list", help="List VPCs")
     list_cmd.set_defaults(func=list_vpcs)
     args = parser.parse_args()
@@ -503,3 +507,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
