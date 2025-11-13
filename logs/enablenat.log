@@ -1,1 +1,7 @@
 Enabled NAT for VPC 'vpc' via interface 'ens5'
+Enabled NAT for VPC 'vpc1' via interface 'eth0'
+Enabled NAT for VPC 'vpc2' via interface 'eth0'
+Enabled NAT for VPC 'vpc1' via interface 'en5'
+Enabled NAT for VPC 'vpc2' via interface 'en5'
+Enabled NAT for VPC 'vpc1' via interface 'en5'
+Enabled NAT for VPC 'vpc2' via interface 'en5'

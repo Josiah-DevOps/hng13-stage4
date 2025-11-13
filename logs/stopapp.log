@@ -1,0 +1,8 @@
+Stopped all apps in subnet 'public' of VPC 'vpc1'
+Stopped all apps in subnet 'private' of VPC 'vpc1'
+Stopped all apps in subnet 'public' of VPC 'vpc2'
+Stopped all apps in subnet 'private' of VPC 'vpc2'
+Stopped all apps in subnet 'public' of VPC 'vpc1'
+Stopped all apps in subnet 'private' of VPC 'vpc1'
+Stopped all apps in subnet 'public' of VPC 'vpc2'
+Stopped all apps in subnet 'private' of VPC 'vpc2'
